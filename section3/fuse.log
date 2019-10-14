@@ -1,0 +1,34 @@
+Running: /home/argy/ISE_DS/ISE/bin/lin/unwrapped/fuse -intstyle ise -incremental -o /home/argy/ISE_DS/organwsh_LAB2/orga2_3/test_alu_isim_beh.exe -prj /home/argy/ISE_DS/organwsh_LAB2/orga2_3/test_alu_beh.prj work.test_alu 
+ISim O.87xd (signature 0x8ddf5b5d)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_3/../../LAB_1org/Complement.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_3/../../LAB_1org/Check.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_3/../../LAB_1org/ALU.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_3/mux.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_3/../../LAB_1org/ALU_TOP.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_3/ALUSTAGE.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_3/test_alu.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 37044 KB
+Fuse CPU Usage: 1660 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity mux [mux_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity Check [check_default]
+Compiling architecture behavioral of entity Complement [complement_default]
+Compiling architecture behavioral of entity ALU_TOP [alu_top_default]
+Compiling architecture behavioral of entity ALUSTAGE [alustage_default]
+Compiling architecture behavior of entity test_alu
+Time Resolution for simulation is 1ps.
+Waiting for 4 sub-compilation(s) to finish...
+Compiled 17 VHDL Units
+Built simulation executable /home/argy/ISE_DS/organwsh_LAB2/orga2_3/test_alu_isim_beh.exe
+Fuse Memory Usage: 86128 KB
+Fuse CPU Usage: 1800 ms
+GCC CPU Usage: 570 ms

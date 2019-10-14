@@ -1,0 +1,7 @@
+vhdl isim_temp "ipcore_dir/MEM1024x32.vhd"
+vhdl isim_temp "PC.vhd"
+vhdl isim_temp "mux.vhd"
+vhdl isim_temp "add_im.vhd"
+vhdl isim_temp "add4.vhd"
+vhdl isim_temp "IFSTAGE.vhd"
+vhdl isim_temp "testa.vhd"

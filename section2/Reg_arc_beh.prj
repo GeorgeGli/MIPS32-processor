@@ -1,0 +1,2 @@
+vhdl work "ipcore_dir/Mem_mRd_sWr_32x16.vhd"
+vhdl work "Reg_arc.vhd"

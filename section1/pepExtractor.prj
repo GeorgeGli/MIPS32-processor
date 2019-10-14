@@ -1,0 +1,6 @@
+work	"IFSTAGE.vhd"
+work	"PC.vhd"
+work	"add4.vhd"
+work	"add_im.vhd"
+work	"ipcore_dir/MEM1024x32.vhd"
+work	"mux.vhd"

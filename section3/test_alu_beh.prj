@@ -1,0 +1,7 @@
+vhdl work "../../LAB_1org/Complement.vhd"
+vhdl work "../../LAB_1org/Check.vhd"
+vhdl work "../../LAB_1org/ALU.vhd"
+vhdl work "mux.vhd"
+vhdl work "../../LAB_1org/ALU_TOP.vhd"
+vhdl work "ALUSTAGE.vhd"
+vhdl work "test_alu.vhd"

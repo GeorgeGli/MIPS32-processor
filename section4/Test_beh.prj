@@ -1,0 +1,4 @@
+vhdl work "ipcore_dir/MEM.vhd"
+vhdl work "mux.vhd"
+vhdl work "MEMSTAGE.vhd"
+vhdl work "Test.vhd"

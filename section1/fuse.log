@@ -1,0 +1,40 @@
+Running: /home/argy/ISE_DS/ISE/bin/lin/unwrapped/fuse -intstyle ise -incremental -o /home/argy/ISE_DS/organwsh_LAB2/orga2_1/Test1_isim_beh.exe -prj /home/argy/ISE_DS/organwsh_LAB2/orga2_1/Test1_beh.prj work.Test1 
+ISim O.87xd (signature 0x8ddf5b5d)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_1/ipcore_dir/MEM1024x32.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_1/PC.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_1/mux.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_1/add_im.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_1/add4.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_1/IFSTAGE.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_1/Test1.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 40864 KB
+Fuse CPU Usage: 3210 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity PC [pc_default]
+Compiling architecture behavioral of entity add4 [add4_default]
+Compiling architecture behavioral of entity add_im [add_im_default]
+Compiling architecture behavioral of entity mux [mux_default]
+Compiling package textio
+Compiling package std_logic_textio
+Compiling architecture output_stage_behavioral of entity BLK_MEM_GEN_V6_1_output_stage [\BLK_MEM_GEN_V6_1_output_stage("...]
+Compiling architecture softecc_output_reg_stage_behavioral of entity BLK_MEM_GEN_V6_1_softecc_output_reg_stage [\BLK_MEM_GEN_V6_1_softecc_output...]
+Compiling architecture mem_module_behavioral of entity BLK_MEM_GEN_V6_1_mem_module [\BLK_MEM_GEN_V6_1_mem_module("bl...]
+Compiling architecture behavioral of entity BLK_MEM_GEN_V6_1 [\BLK_MEM_GEN_V6_1("blk_mem_gen_v...]
+Compiling architecture mem1024x32_a of entity MEM1024x32 [mem1024x32_default]
+Compiling architecture behavioral of entity IFSTAGE [ifstage_default]
+Compiling architecture behavior of entity test1
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 27 VHDL Units
+Built simulation executable /home/argy/ISE_DS/organwsh_LAB2/orga2_1/Test1_isim_beh.exe
+Fuse Memory Usage: 94056 KB
+Fuse CPU Usage: 3630 ms
+GCC CPU Usage: 2270 ms

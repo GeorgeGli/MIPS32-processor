@@ -1,0 +1,3 @@
+work	"MEMSTAGE.vhd"
+work	"ipcore_dir/MEM.vhd"
+work	"mux.vhd"

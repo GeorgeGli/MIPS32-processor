@@ -1,0 +1,2 @@
+vhdl isim_temp "ipcore_dir/Mem_mRd_sWr_32x16.vhd"
+vhdl isim_temp "Reg_arc.vhd"

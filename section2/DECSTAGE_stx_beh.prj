@@ -1,0 +1,8 @@
+vhdl isim_temp "ipcore_dir/Mem_mRd_sWr_32x16.vhd"
+vhdl isim_temp "WrEn_Ctrl.vhd"
+vhdl isim_temp "WrEnCheck.vhd"
+vhdl isim_temp "Reg_arc.vhd"
+vhdl isim_temp "MUX_4x2.vhd"
+vhdl isim_temp "MUX_2x1.vhd"
+vhdl isim_temp "ExtCtrl.vhd"
+vhdl isim_temp "DECSTAGE.vhd"

@@ -1,0 +1,15 @@
+# Output products list for <Mem_mRd_sWr_32x16>
+Mem_mRd_sWr_32x16.asy
+Mem_mRd_sWr_32x16.gise
+Mem_mRd_sWr_32x16.ngc
+Mem_mRd_sWr_32x16.sym
+Mem_mRd_sWr_32x16.v
+Mem_mRd_sWr_32x16.veo
+Mem_mRd_sWr_32x16.vhd
+Mem_mRd_sWr_32x16.vho
+Mem_mRd_sWr_32x16.xco
+Mem_mRd_sWr_32x16.xise
+Mem_mRd_sWr_32x16_flist.txt
+Mem_mRd_sWr_32x16_xmdf.tcl
+blk_mem_gen_ds512.pdf
+blk_mem_gen_readme.txt

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/argy/ISE_DS/organwsh_LAB2/orga2_2/TEST_isim_beh.exe" -prj "/home/argy/ISE_DS/organwsh_LAB2/orga2_2/TEST_beh.prj" "work.TEST" 

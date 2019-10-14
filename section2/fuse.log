@@ -1,0 +1,44 @@
+Running: /home/argy/ISE_DS/ISE/bin/lin/unwrapped/fuse -intstyle ise -incremental -o /home/argy/ISE_DS/organwsh_LAB2/orga2_2/TEST_isim_beh.exe -prj /home/argy/ISE_DS/organwsh_LAB2/orga2_2/TEST_beh.prj work.TEST 
+ISim O.87xd (signature 0x8ddf5b5d)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_2/ipcore_dir/Mem_mRd_sWr_32x16.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_2/WrEn_Ctrl.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_2/WrEnCheck.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_2/Reg_arc.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_2/MUX_4x2.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_2/MUX_2x1.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_2/ExtCtrl.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_2/DECSTAGE.vhd" into library work
+Parsing VHDL file "/home/argy/ISE_DS/organwsh_LAB2/orga2_2/TEST.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 38752 KB
+Fuse CPU Usage: 2010 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity MUX_2x1 [mux_2x1_default]
+Compiling architecture behavioral of entity MUX_4x2 [mux_4x2_default]
+Compiling architecture behavioral of entity WrEn_Ctrl [wren_ctrl_default]
+Compiling architecture behavioral of entity ExtCtrl [extctrl_default]
+Compiling package textio
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package std_logic_textio
+Compiling architecture output_stage_behavioral of entity BLK_MEM_GEN_V6_1_output_stage [\BLK_MEM_GEN_V6_1_output_stage("...]
+Compiling architecture softecc_output_reg_stage_behavioral of entity BLK_MEM_GEN_V6_1_softecc_output_reg_stage [\BLK_MEM_GEN_V6_1_softecc_output...]
+Compiling architecture mem_module_behavioral of entity BLK_MEM_GEN_V6_1_mem_module [\BLK_MEM_GEN_V6_1_mem_module("bl...]
+Compiling architecture behavioral of entity BLK_MEM_GEN_V6_1 [\BLK_MEM_GEN_V6_1("blk_mem_gen_v...]
+Compiling architecture mem_mrd_swr_32x16_a of entity Mem_mRd_sWr_32x16 [mem_mrd_swr_32x16_default]
+Compiling architecture behavioral of entity Reg_arc [reg_arc_default]
+Compiling architecture behavioral of entity WrEnCheck [wrencheck_default]
+Compiling architecture behavioral of entity DECSTAGE [decstage_default]
+Compiling architecture behavior of entity test
+Time Resolution for simulation is 1ps.
+Waiting for 6 sub-compilation(s) to finish...
+Compiled 31 VHDL Units
+Built simulation executable /home/argy/ISE_DS/organwsh_LAB2/orga2_2/TEST_isim_beh.exe
+Fuse Memory Usage: 91920 KB
+Fuse CPU Usage: 2380 ms
+GCC CPU Usage: 2190 ms

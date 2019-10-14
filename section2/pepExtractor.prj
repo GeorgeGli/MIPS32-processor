@@ -1,0 +1,8 @@
+work	"DECSTAGE.vhd"
+work	"ExtCtrl.vhd"
+work	"MUX_2x1.vhd"
+work	"MUX_4x2.vhd"
+work	"Reg_arc.vhd"
+work	"WrEnCheck.vhd"
+work	"WrEn_Ctrl.vhd"
+work	"ipcore_dir/Mem_mRd_sWr_32x16.vhd"

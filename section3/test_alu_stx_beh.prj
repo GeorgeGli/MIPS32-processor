@@ -1,0 +1,7 @@
+vhdl isim_temp "../LAB_1org/Complement.vhd"
+vhdl isim_temp "../LAB_1org/Check.vhd"
+vhdl isim_temp "../LAB_1org/ALU.vhd"
+vhdl isim_temp "../LAB_1org/ALU_TOP.vhd"
+vhdl isim_temp "mux.vhd"
+vhdl isim_temp "ALUSTAGE.vhd"
+vhdl isim_temp "test_alu.vhd"

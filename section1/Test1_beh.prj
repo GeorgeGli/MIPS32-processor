@@ -1,0 +1,7 @@
+vhdl work "ipcore_dir/MEM1024x32.vhd"
+vhdl work "PC.vhd"
+vhdl work "mux.vhd"
+vhdl work "add_im.vhd"
+vhdl work "add4.vhd"
+vhdl work "IFSTAGE.vhd"
+vhdl work "Test1.vhd"

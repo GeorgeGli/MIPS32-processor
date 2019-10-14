@@ -1,0 +1,6 @@
+work	"../LAB_1org/ALU.vhd"
+work	"../LAB_1org/ALU_TOP.vhd"
+work	"../LAB_1org/Check.vhd"
+work	"../LAB_1org/Complement.vhd"
+work	"ALUSTAGE.vhd"
+work	"mux.vhd"

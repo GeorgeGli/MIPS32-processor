@@ -1,0 +1,14 @@
+# Output products list for <MEM1024x32>
+MEM1024x32.asy
+MEM1024x32.mif
+MEM1024x32.ngc
+MEM1024x32.sym
+MEM1024x32.v
+MEM1024x32.veo
+MEM1024x32.vhd
+MEM1024x32.vho
+MEM1024x32.xco
+MEM1024x32_flist.txt
+MEM1024x32_xmdf.tcl
+blk_mem_gen_ds512.pdf
+blk_mem_gen_readme.txt
